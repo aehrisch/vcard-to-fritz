@@ -1,3 +1,9 @@
-# vcard-to-fritz
+# Ruby Gem vcard-to-fritz
 
-Converts a VCard file to a FritzBox Phonebook format
+A ruby gem to convert a VCard file into the FritzBox Phonebook
+format. Run the included binary with
+
+    vcard-to-fritz input.vcf output.xml
+	
+to read the input form `input.vcf` and create the result XML file
+`output.xml`.
