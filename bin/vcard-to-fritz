@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'vcard-to-fritz'
+
+if ARGV.length != 2 then
+  puts "usage: vcards-to-fritz infile.vcf outfile.xml"
+  exit 1
+end
+
+converter = VCardToFritz.new(ARGV[1], ARGV[2])
+converter.convert()

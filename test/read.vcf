@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.3//EN
+N:Hagbard;Celine;;;
+FN:Hagbard Celine
+TEL;type=CELL;type=VOICE;type=pref:+49 177 234577
+TEL;type=HOME;type=VOICE:+49 40 234577
+X-ABUID:8CE693EA-B7C7-49BD-A825-86AC57A0CDE5
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.11.3//EN
+N:Malfoy;Lucius;;;
+FN:Lucius Malfoy
+EMAIL;type=INTERNET;type=HOME;type=pref:malfoy@voldemort.com
+X-ABUID:9FE50EBA-0A1B-4F4F-878D-214D390F0E8B
+END:VCARD
