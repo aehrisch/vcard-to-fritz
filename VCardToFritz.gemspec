@@ -9,4 +9,6 @@ Gem::Specification.new do |s|
   s.files               = 'lib/vcard-to-fritz.rb'
   s.bindir              = 'bin'
   s.executables         << 'vcard-to-fritz'
+  s.add_runtime_dependency 'nokogiri', '~>1.6', '>= 1.6.7'
+  s.add_runtime_dependency 'vcard_parser', '~> 1.0'
 end
