@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'nokogiri', '~>1.6'
-gem 'vard_parser', '~> 1.0'
+gem 'vcard_parser', :github => 'schmurfy/vcard_parser', :tag => 'v1.0.1'
 
